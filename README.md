@@ -1,0 +1,1 @@
+This repository includes the assignment: JavaScript Control Structures and Functions in Module 10: Lesson 2 of the Software Engineering Core.
